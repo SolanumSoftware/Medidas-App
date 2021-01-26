@@ -1,0 +1,14 @@
+@import "~@nativescript/theme/css/core.css";
+@import "~@nativescript/theme/css/default.css";
+
+Button.-primary {
+    font-size: 18;
+}
+
+.mat-icon {
+    font-family: 'Material-outline';
+}
+
+.Rto-med {
+    font-family: 'Roboto-Medium';
+}
